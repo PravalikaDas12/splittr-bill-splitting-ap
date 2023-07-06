@@ -8,7 +8,7 @@ import {
   Group,
   Header,
   MediaQuery,
-  Title,
+  Title, 
 } from "@mantine/core";
 import { useDisclosure, useMediaQuery } from "@mantine/hooks";
 import SideNav from "./Components/SideNav";
